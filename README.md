@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/shamanealston/post-install-config)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/shamanealston/configure-ad)
- 
+  - [Creating Virtual Machines](https://github.com/Shamanealston/Microsoft-Azure-Configuration)
 
 <h2>🤳Connect with me:</h2>
 [linkedin]: https://linkedin.com/in/shaman-alston-654bb5304/
